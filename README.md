@@ -21,5 +21,5 @@
       <a target="_blank" href="https://www.instagram.com/bulkbrainscom/">Instagram</a> &emsp; 
       <a target="_blank" href="https://www.tiktok.com/@bulkbrains">TikTok</a>
   </div><br>
-  <div>Copyright &copy; <span id="year"></span> Crann Moroney (BulkBrains), All Rights Reserved.</div>
+  <div>Copyright &copy; <a href="https://github.com/icrann">Crann Moroney</a> (BulkBrains), All Rights Reserved.</div>
 </div>
