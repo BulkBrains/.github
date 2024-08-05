@@ -9,7 +9,7 @@
 
 <br><hr><br>
 
-BulkBrains software powers over 300 developers and their teams accross over 300 Roblox games, with a combined visit count of over 30 million!
+BulkBrains software powers over 400 developers and their teams accross over 300 Roblox games, with a combined visit count of over 30 million!
 
 <br><hr><br>
 
